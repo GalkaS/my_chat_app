@@ -1,0 +1,62 @@
+body {
+	background-color: white;
+	color: #303030;
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+	margin: 20px;
+}
+
+main {
+	background-color: #F0FFFF;
+	margin: 20px auto;
+	max-width: 450px;
+	padding: 20px;
+}
+
+ol {
+	list-style: none;
+	margin-bottom: 20px;
+	margin-top: 0;
+	padding: 0
+}
+
+li {
+	padding: 10px;
+}
+
+li:nth-child(odd) {
+	background-color: #F0F8FF;
+	border-radius: 6px;
+}
+
+form {
+	background-color: #ADD8E6;
+	border-radius: 6xp;
+	margin: 0;
+	padding: 7px;
+}
+
+button {
+	background-color: #B0C4DE;
+	border: none;
+	border-radius: 3px;
+	color: black;
+	font-size: 15px;
+	font-weight: italic;
+	padding: 5px 10px;
+	text-transform:;
+}
+
+input {
+	border: none;
+    border-radius: 3px;
+    font-size: 15px;
+    padding: 5px;
+}
+
+#initials {
+  width: 40px;
+}
+
+#message {
+  width: 315px;
+}
